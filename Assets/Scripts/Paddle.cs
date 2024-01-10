@@ -65,8 +65,6 @@ public class MovePaddle : MonoBehaviour
         {
             animator.SetBool("isLarge", false);
             animator.SetBool("isSmall", false);
-            animator.SetBool("isLarge", false);
-            animator.SetBool("isSmall", false);
 
             GlobalManager.instance.global.largePaddle = false;
             GlobalManager.instance.global.smallPaddle = false;

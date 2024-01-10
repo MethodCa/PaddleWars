@@ -16,5 +16,9 @@ public class LogicManager : MonoBehaviour
     private void Update()
     {
         score.text = "Score: " + global.score;
+        if (Input.GetKey("escape"))
+        {
+            Application.Quit();
+        }
     }
 }
