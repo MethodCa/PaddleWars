@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Paddle
+  - Ball
+  - Brick
+  - MultiBall
+  - LargePaddle
+  - MegaBall
+  - SmallPaddle
+  - Barrier
+  - Bullet
+  - LaserBeam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bounds
+  - Bricks
+  - BricksDead
+  - Balls
+  - Paddle
+  - PU
+  - MegaBall
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
