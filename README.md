@@ -1,19 +1,15 @@
 # PaddleWars
- Arkanoid clone developed in Unity using Unity's physics engine, 2D animation system and Scriptable objects.
+ Arkanoid videogame clone developed in Unity using Unity's physics engine, 2D animation system and Scriptable objects.
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Use keyboard left, right / A, D to control the paddle.
+> Press space bar to release the ball from the paddle
+> Press and maintain space bar to move the paddle faster.
 
 > [!TIP]
 > New powerUps are in development (shoot and laser), you can try them by pressing the keys z or x respectively.
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> This video game is still under development and could contain bugs/errors.
 
  
