@@ -7,7 +7,7 @@
 > - Press and maintain space bar to move the paddle faster.
 
 > [!TIP]
-> New powerUps are in development (shoot and laser), you can try them by pressing the keys z or x respectively.
+> New powerUps are in development (shoot and laser), you can try them by pressing the keys Z or X respectively.
 
 > [!CAUTION]
 > This video game is still under development and could contain bugs/errors.
