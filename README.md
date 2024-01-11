@@ -31,6 +31,6 @@ New powerUps were created for Paddlewars such as the MegaBall!
 > [!CAUTION]
 > This video game is still under development and could contain bugs/errors.
 
-[^1] [Breakoout](https://en.wikipedia.org/wiki/Breakout_(video_game))- Atari 1976.
+[^1]: [Breakoout](https://en.wikipedia.org/wiki/Breakout_(video_game))- Atari 1976.
 
  
