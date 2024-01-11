@@ -5,6 +5,8 @@
 
 The game was developed with the mindset of maximum optimisation, CPU-intensive code was structured in the best possible way and sprites were created from a single texture atlas; the entire game uses 3 draw calls only.
 
+`![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)`
+
 ![PaddleAtlas](https://github.com/MethodCa/PaddleWars/assets/15893276/048abdf5-d518-43a0-9b77-58dcc9eeefdb)
 
 
