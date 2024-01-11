@@ -7,7 +7,7 @@ The game was developed with the mindset of maximum optimisation, CPU-intensive c
 
  <img src="https://github.com/MethodCa/PaddleWars/assets/15893276/295749154-048abdf5-d518-43a0-9b77-58dcc9eeefdb.png" width="100" height="100">
 
-![PaddleAtlas](https://github.com/MethodCa/PaddleWars/15893276/295749154-048abdf5-d518-43a0-9b77-58dcc9eeefdb.png)
+![PaddleAtlas](https://github.com/MethodCa/PaddleWars/assets/15893276/295749154-048abdf5-d518-43a0-9b77-58dcc9eeefdb.png)
 
 
 ![AnimationPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/76ab825b-b3d2-485d-a33a-c7a00a8572be)
