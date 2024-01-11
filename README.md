@@ -7,7 +7,7 @@ The game was developed with the mindset of maximum optimisation, CPU-intensive c
 
  <img src="https://github.com/MethodCa/PaddleWars/assets/15893276/4cbcf886-a4da-405e-aaa5-522dcd3107e8" width="400" height="400">
 
-Animations were created using Unity's animation system.
+Animations were created using Unity's animation system and managed through Animatiors.
 
 ![AnimationPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/76ab825b-b3d2-485d-a33a-c7a00a8572be)
 
