@@ -3,9 +3,16 @@
  
 ![paddleWars](https://github.com/MethodCa/PaddleWars/assets/15893276/c8b6dc1a-7d94-4664-a0e9-8f522f5d4dd3)
 
+Sprites were created from a texture atlas; the entire game uses 3 drawcalls only.
+![AnimationPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/76ab825b-b3d2-485d-a33a-c7a00a8572be)
+
+
+s
+
 ![AnimatorsPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/20e8a792-57c2-438a-8282-bd991c88f364)
 
-![AnimationPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/76ab825b-b3d2-485d-a33a-c7a00a8572be)
+
+
 
 New powerUps were created for Paddlewars such as the MegaBall!
 
