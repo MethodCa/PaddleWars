@@ -1,5 +1,5 @@
 # PaddleWars
- Arkanoid videogame clone developed in Unity using Unity's physics engine, 2D animation system and Scriptable objects.
+Breakout[^1] style videogame developed in Unity using Unity's physics engine, 2D animation system and Scriptable objects. As the original Breakout game the goal is to remove all the colored bricks from the level by hitting them with a ball. A paddle is located in the lower part of the screen, to hit the bricks move the paddle to intersect the ball, collect powerUps such as: Multiball, stickyBall, LargePaddle, SmallPaddle, Barrier, and MegaBall to help the game progression.
  
 ![paddleWars](https://github.com/MethodCa/PaddleWars/assets/15893276/c8b6dc1a-7d94-4664-a0e9-8f522f5d4dd3)
 
@@ -30,5 +30,7 @@ New powerUps were created for Paddlewars such as the MegaBall!
 
 > [!CAUTION]
 > This video game is still under development and could contain bugs/errors.
+
+[^1] [Breakoout](https://en.wikipedia.org/wiki/Breakout_(video_game))- Atari 1976.
 
  
