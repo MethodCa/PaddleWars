@@ -32,6 +32,6 @@ New powerUps were created for PaddleWars such as the MegaBall!
 
 [^1]: Atari 1976 [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)).
 [^2]: Unity Scripting API [Sprite](https://docs.unity3d.com/ScriptReference/Sprite.html)
-[^2]: Unity Scripting API [Animator](https://docs.unity3d.com/ScriptReference/Animator.html)
+[^3]: Unity Scripting API [Animator](https://docs.unity3d.com/ScriptReference/Animator.html)
 
  
