@@ -8,9 +8,6 @@ Breakout[^1] style videogame developed in Unity using Unity's physics engine, 2D
 > - Press space bar to release the ball from the paddle
 > - Press and maintain space bar to move the paddle faster.
 
-> [!TIP]
-> New powerUps are in development (shoot and laser), you can try them by pressing the keys Z or X respectively.
-
 The game was developed with the mindset of maximum optimisation, CPU-intensive code was structured in the best possible way and Sprites[^2] were created from a single texture atlas; the entire game uses 3 draw calls only.
 
  <img src="https://github.com/MethodCa/PaddleWars/assets/15893276/4cbcf886-a4da-405e-aaa5-522dcd3107e8" width="400" height="400">
@@ -24,8 +21,9 @@ Animations were created using Unity's animation system and managed through Anima
 
 
 New powerUps were created for Paddlewars such as the MegaBall!
-
- ![megaBall](https://github.com/MethodCa/PaddleWars/assets/15893276/882c6f85-cc99-4595-b979-d36d2353bab1)
+![megaBall](https://github.com/MethodCa/PaddleWars/assets/15893276/882c6f85-cc99-4595-b979-d36d2353bab1)
+> [!TIP]
+> New powerUps are in development (shoot and laser), you can try them by pressing the keys Z or X respectively.
 
 
 > [!CAUTION]
