@@ -20,7 +20,7 @@ Animations were created using Unity's animation system and managed through Anima
 ![AnimatorsPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/20e8a792-57c2-438a-8282-bd991c88f364)
 
 
-New powerUps were created for Paddlewars such as the MegaBall!
+New powerUps were created for PaddleWars such as the MegaBall!
 
 ![megaBall](https://github.com/MethodCa/PaddleWars/assets/15893276/882c6f85-cc99-4595-b979-d36d2353bab1)
 > [!TIP]
