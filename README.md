@@ -7,16 +7,12 @@ The game was developed with the mindset of maximum optimisation, CPU-intensive c
 
  <img src="https://github.com/MethodCa/PaddleWars/assets/15893276/4cbcf886-a4da-405e-aaa5-522dcd3107e8" width="400" height="400">
 
-
+Animations were created using Unity's animation system.
 
 ![AnimationPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/76ab825b-b3d2-485d-a33a-c7a00a8572be)
 
 
-
-
 ![AnimatorsPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/20e8a792-57c2-438a-8282-bd991c88f364)
-
-
 
 
 New powerUps were created for Paddlewars such as the MegaBall!
