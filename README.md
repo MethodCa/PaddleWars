@@ -3,7 +3,7 @@
  
 ![paddleWars](https://github.com/MethodCa/PaddleWars/assets/15893276/c8b6dc1a-7d94-4664-a0e9-8f522f5d4dd3)
 
-Sprites were created from a texture atlas; the entire game uses 3 drawcalls only.
+The game was developed with the mindset of maximum optimisation, CPU-intensive code was structured in the best possible way and sprites were created from a single texture atlas; the entire game uses 3 draw calls only.
 
 ![PaddleAtlas](https://github.com/MethodCa/PaddleWars/assets/15893276/048abdf5-d518-43a0-9b77-58dcc9eeefdb)
 
