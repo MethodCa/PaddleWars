@@ -3,7 +3,7 @@ Breakout[^1] style videogame developed in Unity using Unity's physics engine, 2D
  
 ![paddleWars](https://github.com/MethodCa/PaddleWars/assets/15893276/c8b6dc1a-7d94-4664-a0e9-8f522f5d4dd3)
 
-The game was developed with the mindset of maximum optimisation, CPU-intensive code was structured in the best possible way and sprites were created from a single texture atlas; the entire game uses 3 draw calls only.
+The game was developed with the mindset of maximum optimisation, CPU-intensive code was structured in the best possible way and Sprites[^2] were created from a single texture atlas; the entire game uses 3 draw calls only.
 
  <img src="https://github.com/MethodCa/PaddleWars/assets/15893276/4cbcf886-a4da-405e-aaa5-522dcd3107e8" width="400" height="400">
 
@@ -32,5 +32,6 @@ New powerUps were created for Paddlewars such as the MegaBall!
 > This video game is still under development and could contain bugs/errors.
 
 [^1]: [Breakoout](https://en.wikipedia.org/wiki/Breakout_(video_game))- Atari 1976.
+[^2]: Unity [Sprite}(https://docs.unity3d.com/ScriptReference/Sprite.html)
 
  
