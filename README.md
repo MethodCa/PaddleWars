@@ -12,7 +12,7 @@ The game was developed with the mindset of maximum optimisation, CPU-intensive c
 
  <img src="https://github.com/MethodCa/PaddleWars/assets/15893276/4cbcf886-a4da-405e-aaa5-522dcd3107e8" width="400" height="400">
 
-Animations were created using Unity's animation system and managed through Animatiors.
+Animations were created using Unity's animation system and managed through Animators[^3].
 
 ![AnimationPaddle](https://github.com/MethodCa/PaddleWars/assets/15893276/76ab825b-b3d2-485d-a33a-c7a00a8572be)
 
@@ -21,6 +21,7 @@ Animations were created using Unity's animation system and managed through Anima
 
 
 New powerUps were created for Paddlewars such as the MegaBall!
+
 ![megaBall](https://github.com/MethodCa/PaddleWars/assets/15893276/882c6f85-cc99-4595-b979-d36d2353bab1)
 > [!TIP]
 > New powerUps are in development (shoot and laser), you can try them by pressing the keys Z or X respectively.
@@ -29,7 +30,8 @@ New powerUps were created for Paddlewars such as the MegaBall!
 > [!CAUTION]
 > This video game is still under development and could contain bugs/errors.
 
-[^1]: [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))- Atari 1976.
-[^2]: Unity [Sprite](https://docs.unity3d.com/ScriptReference/Sprite.html)
+[^1]: Atari 1976 [Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game)).
+[^2]: Unity Scripting API [Sprite](https://docs.unity3d.com/ScriptReference/Sprite.html)
+[^2]: Unity Scripting API [Animator](https://docs.unity3d.com/ScriptReference/Animator.html)
 
  
